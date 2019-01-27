@@ -1,0 +1,9 @@
+﻿  NNS.cpp
+c:\users\ryan easter\onedrive - university of lincoln\year 2\object oriented programming\assignemnt\wally oop assignment 1\wally oop assignment 1\nns.cpp(70): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Source.cpp
+  Generating Code...
+  Wally OOP Assignment 1.vcxproj -> C:\Users\Ryan Easter\OneDrive - University of Lincoln\Year 2\Object oriented programming\Assignemnt\Wally OOP Assignment 1\Debug\Wally OOP Assignment 1.exe
